@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <title>Womens</title>
+  <style>
+      .product-top{
+          text-align: center;
+      }
+  </style>
+</head>
+<body class="container-fluid">
+    <div id="header" style="background-color: #18191A";>
+        <ul class="nav justify-content-center">
+            <li class="nav-item">
+                <a class="nav-link" href="Home.html">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="Mobiles.html">Mobiles</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="Laptops.html">Laptops</a>
+            </li>
+            <li class="nav-item" >
+                <a class="nav-link" href="Accessories.html" >Accessories</a>
+            </li>
+            <li class="nav-item" >
+              <a class="nav-link" href="login.html" >Logout</a>
+          </li>
+        </ul>
+    </div>
+      
+    </div>
+    <div class="x1">
+        <h2 style="text-align: center;" >Laptops</h2>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="product-top"><img src="l1.jpg" width="auto" height="250px" alt="">
+                </div>
+                <div class="product-bottom text-center">
+                    <h3>HP Laptop</h3>
+                    <h5>559.00</h5>
+                    <button class="btn btn-success"><a href="payment.html">BUY NOW</a></button>
+                    <button class="btn btn-info">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="product-top"><img src="l2.jpg" widht=auto height="250px" alt="">
+                </div>
+                <div class="product-bottom text-center">
+                    <h3>Black desigen saree</h3>
+                    <h5>699.00</h5>
+                    <button class="btn btn-success"><a href="payment.html">BUY NOW</a></button>
+                    <button class="btn btn-info">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="product-top"><img src="l3.jpg" width="auto" height="250px" alt="">
+                </div>
+                <div class="product-bottom text-center">
+                    <h3>Orange desigen saree</h3>
+                    <h5>399.00</h5>
+                    <button class="btn btn-success"><a href="payment.html">BUY NOW</a></button>
+                    <button class="btn btn-info">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="product-top"><img src="l4.jpg" width="auto" height="250px" alt="">
+                </div>
+                <div class="product-bottom text-center">
+                    <h3>Yellow desigen saree</h3>
+                    <h5>99.00</h5>
+                    <button class="btn btn-success"><a href="payment.html">BUY NOW</a></button>
+                    <button class="btn btn-info">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="product-top"><img src="l5.jpg" width="auto" height="250px" alt="">
+                </div>
+                <div class="product-bottom text-center">
+                    <h3>White&blue mumakel saree</h3>
+                    <h5>599.00</h5>
+                    <button class="btn btn-success"><a href="payment.html">BUY NOW</a></button>
+                    <button class="btn btn-info">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="product-top"><img src="l6.jpg" width="auto" height="250px" alt="">
+                </div>
+                <div class="product-bottom text-center">
+                    <h3>Green dress</h3>
+                    <h5>799.00</h5>
+                    <button class="btn btn-success"><a href="payment.html">BUY NOW</a></button>
+                    <button class="btn btn-info">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="product-top"><img src="l7.jpg" width="auto" height="250px" alt="">
+                </div>
+                <div class="product-bottom text-center">
+                    <h3>Black dress</h3>
+                    <h5>799.00</h5>
+                    <button class="btn btn-success"><a href="payment.html">BUY NOW</a></button>
+                    <button class="btn btn-info">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="product-top"><img src="l8.jpg" width="auto" height="250px" alt="">
+                </div>
+                <div class="product-bottom text-center">
+                    <h3>desigen Mukumal</h3>
+                    <h5>1199.00</h5>
+                    <button class="btn btn-success"><a href="payment.html">BUY NOW</a></button>
+                    <button class="btn btn-info">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="product-top"><img src="l9.jpg" width="auto" height="250px" alt="">
+                </div>
+                <div class="product-bottom text-center">
+                    <h3>Causal nick T-shirt</h3>
+                    <h5>799.00</h5>
+                    <button class="btn btn-success"><a href="payment.html">BUY NOW</a></button>
+                    <button class="btn btn-info">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="product-top"><img src="l 10.jpg" width="auto" height="250px" alt="">
+                </div>
+                <div class="product-bottom text-center">
+                    <h3>Causal nick T-shirt</h3>
+                    <h5>799.00</h5>
+                    <button class="btn btn-success"><a href="payment.html">BUY NOW</a></button>
+                    <button class="btn btn-info">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="product-top"><img src="l11.jpg" width="auto" height="250px" alt="">
+                </div>
+                <div class="product-bottom text-center">
+                    <h3>Causal nick T-shirt B&W</h3>
+                    <h5>899.00</h5>
+                    <button class="btn btn-success"><a href="payment.html">BUY NOW</a></button>
+                    <button class="btn btn-info">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="product-top"><img src="l12.jpg" width="auto" height="250px" alt="">
+                </div>
+                <div class="product-bottom text-center">
+                    <h3>Leaf Model Top</h3>
+                    <h5>499.00</h5>
+                    <button class="btn btn-success"><a href="payment.html">BUY NOW</a></button>
+                    <button class="btn btn-info">ADD TO CART</button>
+                </div>
+            </div>
+                    
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
