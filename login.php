@@ -16,8 +16,8 @@
         $row=mysqli_fetch_array($result,MYSQLI_ASSOC);
         $count=mysqli_num_rows($result);
         echo($count);
-        if($count==2){
-            header("Location: home.php");
+        if($count==1){
+            header("Location: land.php");
         }
         else{
             header("Location: index.php");

@@ -1,4 +1,4 @@
-index<?php
+<?php
 
 	$username=$_POST['username'];
 	$email = $_POST['email'];
@@ -12,10 +12,10 @@ index<?php
 	if($conn->connect_error){
 		die("Connection Failed : ". $conn->connect_error);
 	} else {
-		$sql = "insert into users(uname,email, pass,cpass,phno) values('$username','$email','$Password','$cmpassword','$phone');";
+		$sql = "insert into users(uname,email, pass,phno) values('$username','$email','$Password','$phone');";
 		if($conn->query($sql)){
-			echo "<h1>You have succesfully completed your registration";
-			header("Location: index.html");
+			echo "<h1>You have succesfully completed your registration</h1>";
+			header("Location: index.php");
 exit();
 		}
 		else{

@@ -58,7 +58,7 @@
                   </div>
                 <div class="form-group">        
                     <div class="col-sm-offset-4 col-sm-10">
-                      <button type="submit" style="font-size: 20px;" class="btn btn-success"><a style="color: white;" href="Home.html">Login</a></button>
+                      <button type="submit" style="font-size: 20px;color: white;" class="btn btn-success" >Login</button>
                       <button style="font-size: 20px;" class="btn btn-primary"><a style="color: white;" href="signup.html">Register</a></button>
                     </div>
                   </div>
